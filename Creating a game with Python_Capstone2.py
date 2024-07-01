@@ -15,8 +15,6 @@ import random # Import to generate random numbers.
 
 pygame.init()
 
-
-
 # The screen that will be created needs a width and a height.
 
 screen_width = 1040
@@ -58,7 +56,6 @@ print("\n This is the height of the enemy2 image: " +str(enemy_height2))
 print("This is the width of the enemy2 image: " +str(enemy_width2))
 
 
-
 print("\n This is the height of the enemy3 image: " +str(enemy_height3))
 print("This is the width of the enemy3 image: " +str(enemy_width3))
 
@@ -88,7 +85,6 @@ enemy3YPosition = 400
 
 prizeXPosition = 500
 prizeYPosition = 500
-
 
 # Make the enemy + prize start off screen and at a random y position.
 
